@@ -1,0 +1,5 @@
+package org.jsp.springmvcdemo.dto;
+
+public class User {
+
+}

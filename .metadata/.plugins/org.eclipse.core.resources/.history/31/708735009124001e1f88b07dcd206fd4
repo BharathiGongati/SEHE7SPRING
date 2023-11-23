@@ -1,0 +1,5 @@
+package org.jsp.springhibernatedemo.dto;
+
+public class Department {
+
+}

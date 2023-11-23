@@ -1,0 +1,11 @@
+package org.jsp.springmvcdemo.dto;
+
+public class User {
+	private String name;
+	private int age;
+	private long phone;
+	private String email;
+	private String password;
+	
+
+}

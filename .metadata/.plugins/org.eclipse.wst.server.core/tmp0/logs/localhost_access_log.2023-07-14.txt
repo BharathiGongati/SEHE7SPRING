@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/Jul/2023:22:08:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:08:46 +0530] "GET /UsingMvcSaveTheDataInDataBase/ HTTP/1.1" 200 379
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:08:49 +0530] "GET /UsingMvcSaveTheDataInDataBase/register.jsp HTTP/1.1" 200 466
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:09:11 +0530] "POST /UsingMvcSaveTheDataInDataBase/register HTTP/1.1" 404 682
+127.0.0.1 - - [14/Jul/2023:22:14:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:14:50 +0530] "GET /UsingMvcSaveTheDataInDataBase/ HTTP/1.1" 200 379
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:14:52 +0530] "GET /UsingMvcSaveTheDataInDataBase/register.jsp HTTP/1.1" 200 466
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:15:22 +0530] "POST /UsingMvcSaveTheDataInDataBase/register HTTP/1.1" 200 150
+127.0.0.1 - - [14/Jul/2023:22:16:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:16:26 +0530] "GET /UsingMvcSaveTheDataInDataBase/ HTTP/1.1" 200 379
+0:0:0:0:0:0:0:1 - - [14/Jul/2023:22:16:28 +0530] "GET /UsingMvcSaveTheDataInDataBase/register.jsp HTTP/1.1" 200 466

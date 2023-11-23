@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;lifecycle.xml&apos; to &apos;Lifecycle/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;SpringBeanLifeCycle&apos;&#x0D;&#x0A;- Destination element: &apos;Lifecycle/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;lifecycle.xml&apos;" description="Copy file" destination="=Lifecycle/src\/main\/resources" element1="src/main/resources/lifecycle.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687939061033" units="0" version="1.0"/>
+</session>
